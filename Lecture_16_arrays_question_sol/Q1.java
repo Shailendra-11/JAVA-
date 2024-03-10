@@ -1,6 +1,6 @@
 package Lecture_16_arrays_question_sol;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Q1  {
     // find the total number of pairs in the arrys whose sum is equal to the given value
